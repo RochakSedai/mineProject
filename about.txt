@@ -1,0 +1,8 @@
+This is the mini project designed from the knowlege of our 15 days
+basic python training. I have only used the syntax and funtion I have 
+learned in the 15 days trainig and designed a simple game named HANGMAN.
+
+I have import the random module from pip to generate the random word from the 
+text document letter.txt. This is user friendly and use can use it properly.
+
+HOPE YOU WILL LIKE IT!! thankyou...
